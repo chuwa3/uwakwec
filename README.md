@@ -1,2 +1,0 @@
-# uwakwec
-uwakwec2021
